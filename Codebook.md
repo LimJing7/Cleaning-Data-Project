@@ -12,26 +12,47 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 
 
 1. activity
+
   Describes the activity that is being done during the data recording.
+
 2. subject
+  
   Describes who is performing the activity.
+
 3. timeBodyAccMeanX
+
   The mean time domain body acceleration signals captured by the accelerometer in the x direction.
+
 4. timeBodyAccMeanY
+
   The mean time domain body acceleration signals captured by the accelerometer in the y direction.
+
 5. timeBodyAccMeanZ
+
   The mean time domain body acceleration signals captured by the accelerometer in the z direction.
+
 6. timeGravityAccMeanX
+  
   The mean time domain gravity acceleration signals captured by the accelerometer in the x direction.
+
 7. timeGravityAccMeanY
+
   The mean time domain gravity acceleration signals captured by the accelerometer in the y direction.
+
 8. timeGravityAccMeanZ
+  
   The mean time domain gravity acceleration signals captured by the accelerometer in the z direction.
+  
 9. timeBodyAccJerkMeanX
+  
   The mean time domain body jerk signals captured by the accelerometer in the x direction.
+  
 10. timeBodyAccJerkMeanY
+  
   The mean time domain body jerk signals captured by the accelerometer in the y direction.
+  
 11. timeBodyAccJerkMeanZ
+  
   The mean time domain body jerk signals captured by the accelerometer in the z direction.
 12. timeBodyGyroMeanX
   The mean time domain body signals captured by the gyroscope in the x direction.
